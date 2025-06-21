@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "ryofc",
+    "PhoneMdl": "Infinix Hot 50i",
+    "level": "owner"
+  },
+  {
+    "username": "guestuser",
+    "password": "123",
+    "PhoneMdl": "Infinix Hot 50i",
+    "level": "guest"
+  },
+  {
+    "username": "vipuser",
+    "password": "456",
+    "PhoneMdl": "Infinix Hot 50i",
+    "level": "vip"
+  }
+]
