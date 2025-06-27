@@ -3,7 +3,7 @@
     "username": "admin",
     "password": "ryofc",
     "PhoneMdl": "Infinix Hot 50i",
-    "level": "owner"
+    "level": "owner",
     "accessUntil": "11-07-3250",
     "status": "active"
   },
@@ -11,7 +11,7 @@
     "username": "guestuser",
     "password": "123",
     "PhoneMdl": "Infinix Hot 50i",
-    "level": "guest"
+    "level": "guest",
     "accessUntil": "24-07-24",
     "status": "active"
   },
@@ -19,7 +19,7 @@
     "username": "vipuser",
     "password": "456",
     "PhoneMdl": "Infinix Hot 50i",
-    "level": "vip"
+    "level": "vip",
     "accessUntil": "27-07-26",
     "status": "active"
   }
